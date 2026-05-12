@@ -1,0 +1,16 @@
+# Fichiers sensibles
+config.json
+historique.json
+
+# Sauvegardes
+sauvegardes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VS Code
+.vscode/
