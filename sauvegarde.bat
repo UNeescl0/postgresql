@@ -1,8 +1,8 @@
 @echo off
-set PGPASSWORD=root1234
+set PGPASSWORD= put_your_password_here
 set PG_PATH=C:\Program Files\PostgreSQL\18\bin
 set BACKUP_DIR=C:\Coffre_PostgreSQL\sauvegardes
-set DB_USER=postgres
+set DB_USER=put_your_username
 set DB_HOST=localhost
 set DB_PORT=5432
 set DB_NAME=ma_base_test
